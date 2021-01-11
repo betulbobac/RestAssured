@@ -19,3 +19,6 @@ user.
 comment section are in the proper format.
 4. Think of various scenarios for the test workflow, all the things that
 can go wrong. Add them to test coverage
+
+
+CI execution completed by using CircleCI tool that is integrated with GitHub repository.
